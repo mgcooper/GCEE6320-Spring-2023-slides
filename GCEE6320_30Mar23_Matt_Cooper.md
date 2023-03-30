@@ -55,7 +55,7 @@ matt.cooper@pnnl.gov
 
 ---
 
-## Importance of High-Latitude Hydroclimatology <!-- fit -->
+## Why do polar regions play a significant role in global climate? <!-- fit -->
 
 <!-- use this to scope a style to one slide -->
 <style scoped> li {font-size: 24px} </style>
@@ -63,10 +63,9 @@ matt.cooper@pnnl.gov
 <!-- ![bg right](A_Snapshot_of_Sea_Ice.jpg) -->
 <!-- ![bg](A_Snapshot_of_Sea_Ice.jpg) -->
 
-- Why do polar regions play a significant role in global climate?
-    - _The high albedo of snow and ice._
-    - _The large amount of carbon stored in permafrost._
-    - **The large amount of freshwater stored in glaciers.**
+- _The high albedo of snow and ice._
+- _The large amount of carbon stored in permafrost._
+- **The large amount of freshwater stored in glaciers.**
 
 ![center w:650px h:auto](./img/A_Snapshot_of_Sea_Ice.jpg)
 
@@ -90,7 +89,7 @@ matt.cooper@pnnl.gov
 ## Freshwater Inputs from Land and Ice Sheets
 
 <!-- from the prior version -->
-- Freshwater inputs from melting ice sheets and land runoff impact ocean, salinity, circulation, and temperature.
+- Freshwater inputs from melting ice sheets and land runoff impact ocean salinity, circulation, and temperature.
 - These changes can have far-reaching effects on global climate, marine ecosystems, and sea levels.
 
 
@@ -123,7 +122,6 @@ matt.cooper@pnnl.gov
 
 - Populated since ~2500 BC
 - ~90% (58,000) Greenlandic Inuit, rest Danish/European
-- 2nd largest island on Earth
 - Autonomous territory of Denmark since 1953
 - Self-governed since 2008
 - Maintain right to full independence (yet to exercise)
