@@ -1,0 +1,7 @@
+{
+    "markdown.marp.enableHtml": true
+// If I create custom themes, add this for preview to work
+//   "markdown.marp.themes": [
+//     "./src/styles.css"
+//   ]
+}
