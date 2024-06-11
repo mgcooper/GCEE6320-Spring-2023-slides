@@ -14,9 +14,9 @@ Spring 2023:
 Spring 2024:
 
 - High-Latitude Hydroclimatology: Modeling the Cryosphere, 10 April 2024.
-- High-Latitude Hydroclimatology: Modeling Ice Sheet Surface Mass Balance, 12 April 2024.
+- High-Latitude Hydroclimatology: Modeling Ice Sheet Surface Mass Balance, 15 April 2024.
 
 <!-- - GCEE6320_Day1_Matt_Cooper.md
 - GCEE6320_Day2_Matt_Cooper.md -->
 
-Please note: the Day 2 lecture is an abridged version. Please email me if you would like the full version that was presented in class.
+<!-- Please note: the Day 2 lecture is an abridged version. Please email me if you would like the full version that was presented in class. -->
