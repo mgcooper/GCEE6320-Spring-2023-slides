@@ -1,5 +1,9 @@
 {
-    "markdown.marp.enableHtml": true
+    "markdown.marp.enableHtml": true,
+    "markdownlint.config": {
+        "MD024": false, 
+        "MD033": false // allow inline html
+    },
 // If I create custom themes, add this for preview to work
 //   "markdown.marp.themes": [
 //     "./src/styles.css"
