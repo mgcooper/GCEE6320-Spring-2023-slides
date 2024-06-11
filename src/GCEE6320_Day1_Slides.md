@@ -64,7 +64,7 @@ However my background and primary research interests lie in the frozen parts of 
 So the topic of my lectures is High-Latitude Hydroclimatology and modeling the cryosphere 
 -->
 
-![center](./img/A_Snapshot_of_Sea_Ice.jpg)
+![center](../img/A_Snapshot_of_Sea_Ice.jpg)
 <!-- ![w:400px h:auto](A_Snapshot_of_Sea_Ice.jpg) -->
 
 <!-- <p class="small-text">Some smaller text at the footer of the page.</p> -->
@@ -93,7 +93,7 @@ So today I hope to take you on a brief tour of the cryosphere and why it matters
 For the next two lectures I will focus on three distinct features of the high latitude regions: snow covered sea ice, the greenland ice sheet, and vast expanses of tundra underlain by permafrost, each of which are visible in this image
 -->
 
-![center w:650px h:auto](./img/A_Snapshot_of_Sea_Ice.jpg)
+![center w:650px h:auto](../img/A_Snapshot_of_Sea_Ice.jpg)
 
 ---
 
@@ -108,7 +108,7 @@ For the next two lectures I will focus on three distinct features of the high la
 - Next lecture:
   - The large amount of freshwater stored in glaciers.
 
-![center w:650px h:auto](./img/A_Snapshot_of_Sea_Ice.jpg)
+![center w:650px h:auto](../img/A_Snapshot_of_Sea_Ice.jpg)
 
 ---
 
@@ -125,7 +125,7 @@ For the next two lectures I will focus on three distinct features of the high la
 - Sea ice and polar snow influence global climate by reflecting sunlight, and acting as insulators that prevent heat exchange between the ocean and the atmosphere.
 - Snow accumulation and melt affect the mass balance of polar ice sheets, which in turn influence global sea levels.
 
-![center w:500px h:auto](./img/A_Snapshot_of_Sea_Ice.jpg)
+![center w:500px h:auto](../img/A_Snapshot_of_Sea_Ice.jpg)
 
 ---
 
@@ -134,7 +134,7 @@ For the next two lectures I will focus on three distinct features of the high la
 - Why do high latitude regions experience more pronounced warming than other areas?
   - **Snow and ice _reflect_ more solar radiation than other surfaces.**
 
-![center w:400 h:auto](./img/weathering_crust.jpg)
+![center w:400 h:auto](../img/weathering_crust.jpg)
 
 <p class="small-text">Photo: Matt Cooper</p>
 
@@ -166,7 +166,7 @@ For the next two lectures I will focus on three distinct features of the high la
 - Almost all energy is absorbed at wavelengths in the red and beyond
 - Unless the snow/ice is "dirty" ...
 
-![center w:500px h:auto](./img/albedo_katt.png)
+![center w:500px h:auto](../img/albedo_katt.png)
 
 <p class="small-text">Cooper et al. 2021, The Cryosphere</p>
 
@@ -187,7 +187,7 @@ For the next two lectures I will focus on three distinct features of the high la
 
 ## What makes ice albedo decrease?
 
-![center w:400px h:auto](./img/collier.png)
+![center w:400px h:auto](../img/collier.png)
 
 <p class="small-text">Allgaier, Cooper, and others 2022, The Journal of Glaciology</p>
 
@@ -195,7 +195,7 @@ For the next two lectures I will focus on three distinct features of the high la
 
 ## Spectral reflectance of dirty glacial ice
 
-![center w:500px h:auto](./img/collier_albedo.png)
+![center w:500px h:auto](../img/collier_albedo.png)
 
 <p class="small-text">Allgaier, Cooper, and others 2022, The Journal of Glaciology</p>
 
@@ -206,7 +206,7 @@ For the next two lectures I will focus on three distinct features of the high la
 <!-- _backgroundColor: white -->
 <!-- _color: black -->
 
-![center w:500px h:auto](./img/painter_snow_albedo.png)
+![center w:500px h:auto](../img/painter_snow_albedo.png)
 
 <p class="small-text">Painter et al. 2001</p>
 
@@ -218,7 +218,7 @@ For the next two lectures I will focus on three distinct features of the high la
 - _Snow and ice reflect _more_ solar radiation than other surfaces._
   - **As earth warms, snow cover decreases and absorbed solar radiation increases, which causes more warming, more snow melt, and more absorption of solar radiation, leading to a positive feedback loop.**
 
-![center w:400 h:auto](./img/albedo-feedback.png)
+![center w:400 h:auto](../img/albedo-feedback.png)
 
 ---
 
@@ -235,11 +235,11 @@ The last 17 years, from 2007 to 2023, are the lowest 17 sea ice extents in the s
 
 ---
 
-![center ](./img/sea_ice_minimum_2012.png)
+![center ](../img/sea_ice_minimum_2012.png)
 
 ---
 
-![center ](./img/sea_ice_2007_2024.png)
+![center ](../img/sea_ice_2007_2024.png)
 
 ---
 
@@ -296,13 +296,13 @@ The last 17 years, from 2007 to 2023, are the lowest 17 sea ice extents in the s
 - Climate models are essential tools for studying and predicting hydroclimatic processes in high-latitude regions.
 - Accurately representing high-latitude processes in climate models is challenging due to the complex interactions between the atmosphere, ocean, and cryosphere.
 
-![center w:600px h:auto](./img/Global_Climate_Model_merged.png)
+![center w:600px h:auto](../img/Global_Climate_Model_merged.png)
 
 ---
 
 <!-- _backgroundColor: white -->
 
-![bg w:100%](./img/USGS_WaterCycle_English_ONLINE_20221013_cropped.png)
+![bg w:100%](../img/USGS_WaterCycle_English_ONLINE_20221013_cropped.png)
 
 ---
 
@@ -311,7 +311,7 @@ The last 17 years, from 2007 to 2023, are the lowest 17 sea ice extents in the s
 - Permafrost is permanently frozen ground, and it affects the storage and movement of water in high-latitude regions.
 - Thawing permafrost can release significant amounts of carbon dioxide and methane, both potent greenhouse gases, exacerbating climate change (permafrost-carbon feedback).
 
-![center w:800px h:auto](./img/polygonal_ground.png)
+![center w:800px h:auto](../img/polygonal_ground.png)
 
 ---
 
@@ -320,7 +320,7 @@ The last 17 years, from 2007 to 2023, are the lowest 17 sea ice extents in the s
 - Permafrost stores large amounts of carbon and water.
 - Thawing permafrost affects hydrology, ecosystems, and infrastructure.
 
-![bg right w:450px h:auto](./img/active_layer_diagram.png)
+![bg right w:450px h:auto](../img/active_layer_diagram.png)
 
 <p class="small-text">diagram: Kurylyk et al (2014) ESR</p>
 
@@ -337,7 +337,7 @@ The last 17 years, from 2007 to 2023, are the lowest 17 sea ice extents in the s
 - Permafrost is permanently frozen ground, and it affects the storage and movement of water in high-latitude regions.
 - Thawing permafrost can release significant amounts of carbon dioxide and methane, both potent greenhouse gases, exacerbating climate change (permafrost-carbon feedback).
 
-![center w:800px h:auto](./img/polygonal_ground.png)
+![center w:800px h:auto](../img/polygonal_ground.png)
 
 ---
 
@@ -357,7 +357,7 @@ The last 17 years, from 2007 to 2023, are the lowest 17 sea ice extents in the s
 
 - Thawing permafrost affects hydrology, ecosystems, and infrastructure
 
-![center w:1000px h:auto](./img/polygonal_ground.png)
+![center w:1000px h:auto](../img/polygonal_ground.png)
 
 <p class="small-text">image: Ethan Coon, AMANZI-ATS</p>
 
@@ -368,7 +368,7 @@ The last 17 years, from 2007 to 2023, are the lowest 17 sea ice extents in the s
 - How do we represent this complexity in models? 
 - Answer: sub-grid parameterizations
 
-![center w:680px h:auto](./img/subgrid_param_cesm.png)
+![center w:680px h:auto](../img/subgrid_param_cesm.png)
 
 <p class="small-text">image: https://www2.cesm.ucar.edu/working_groups/Atmosphere/parameterizations/</p>
 
@@ -379,7 +379,7 @@ The last 17 years, from 2007 to 2023, are the lowest 17 sea ice extents in the s
 <!-- _backgroundColor: white -->
 <!-- _color: black -->
 
-![bg w:900](./img/subgrid_param_cesm_annotated.png)
+![bg w:900](../img/subgrid_param_cesm_annotated.png)
 
 ---
 
@@ -395,7 +395,7 @@ The last 17 years, from 2007 to 2023, are the lowest 17 sea ice extents in the s
 <!-- _backgroundColor: white -->
 <!-- _color: black -->
 
-![center w:800 h:auto](./img/ats-mosart-diagram.png)
+![center w:800 h:auto](../img/ats-mosart-diagram.png)
 
 ---
 
@@ -406,7 +406,7 @@ The last 17 years, from 2007 to 2023, are the lowest 17 sea ice extents in the s
 
 - Represent the effect of soil ice content on lateral flow with parameter $\Theta_{ice}$
 
-![center w:800 h:auto](./img/elm-subgrid.png)
+![center w:800 h:auto](../img/elm-subgrid.png)
 
 ---
 
@@ -459,7 +459,7 @@ The last 17 years, from 2007 to 2023, are the lowest 17 sea ice extents in the s
 
 ## Questions?
 
-![bg](./img/A_Snapshot_of_Sea_Ice.jpg)
+![bg](../img/A_Snapshot_of_Sea_Ice.jpg)
 
 ---
 
@@ -473,4 +473,4 @@ The last 17 years, from 2007 to 2023, are the lowest 17 sea ice extents in the s
 - Observations show an earlier peak in spring
 - Observations show fewer peaks in late summer
 
-![center w:800 h:auto](./img/ats-mosart-usgs-2.png)
+![center w:800 h:auto](../img/ats-mosart-usgs-2.png)

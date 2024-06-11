@@ -47,9 +47,9 @@ GCEE 6320 Global Climate: Physical Models
 15 April 2024
 matt.cooper@pnnl.gov
 
-![center w:700](./img/rio_behar_wide.png)
-<!-- ![center](./img/A_Snapshot_of_Sea_Ice.jpg) -->
-<!-- ![w:400px h:auto](A_Snapshot_of_Sea_Ice.jpg) -->
+![center w:700](../img/rio_behar_wide.png)
+<!-- ![center](../img/A_Snapshot_of_Sea_Ice.jpg) -->
+<!-- ![w:400px h:auto](../img/A_Snapshot_of_Sea_Ice.jpg) -->
 
 <!-- <p class="small-text">Some smaller text at the footer of the page.</p> -->
 
@@ -60,14 +60,14 @@ matt.cooper@pnnl.gov
 <!-- use this to scope a style to one slide -->
 <style scoped> li {font-size: 24px} </style>
 
-<!-- ![bg right](A_Snapshot_of_Sea_Ice.jpg) -->
-<!-- ![bg](A_Snapshot_of_Sea_Ice.jpg) -->
+<!-- ![bg right](../img/A_Snapshot_of_Sea_Ice.jpg) -->
+<!-- ![bg](../img/A_Snapshot_of_Sea_Ice.jpg) -->
 
 - _The high albedo of snow and ice._
 - _The large amount of carbon stored in permafrost._
 - **The large amount of freshwater stored in glaciers.**
 
-![center w:650px h:auto](./img/A_Snapshot_of_Sea_Ice.jpg)
+![center w:650px h:auto](../img/A_Snapshot_of_Sea_Ice.jpg)
 
 ---
 
@@ -92,7 +92,6 @@ matt.cooper@pnnl.gov
 - Freshwater inputs from melting ice sheets and land runoff impact ocean salinity, circulation, and temperature.
 - These changes can have far-reaching effects on global climate, marine ecosystems, and sea levels.
 
-
 <!-- - Freshwater inputs from land and ice sheets have a significant impact on ocean salinity and circulation, which in turn affect ice sheet mass balance and sea level rise.
 - Understanding the complex interactions between freshwater inputs and ocean processes is essential for accurate climate modeling and predicting future changes. -->
 
@@ -116,7 +115,7 @@ matt.cooper@pnnl.gov
 
 <style scoped> li {font-size: 22px} </style>
 
-![bg right w:500](./img/gris_surf_noaxis.png)
+![bg right w:500](../img/gris_surf_noaxis.png)
 
 - Populated since ~2500 BC
 - ~90% (58,000) Greenlandic Inuit, rest Danish/European
@@ -132,7 +131,7 @@ matt.cooper@pnnl.gov
 
 <style scoped> li {font-size: 22px} </style>
 
-![bg right w:500](./img/gris_surf_noaxis.png)
+![bg right w:500](../img/gris_surf_noaxis.png)
 
 - 2nd largest island on Earth
 - Largest island that is not a continent
@@ -145,7 +144,7 @@ matt.cooper@pnnl.gov
 
 ---
 
-![bg w:800 h:auto](./img/gris_size.jpg)
+![bg w:800 h:auto](../img/gris_size.jpg)
 
 ---
 
@@ -153,7 +152,7 @@ matt.cooper@pnnl.gov
 <!-- _backgroundColor: white -->
 <!-- _color: black -->
 
-![center w:1000 h:auto](./img/gris_surf.png)
+![center w:1000 h:auto](../img/gris_surf.png)
 
 <p style="position: absolute; bottom: 0; left: 0; width: 100%; text-align: center;">topography: BedMachineV3, Morlighem et al 2017</p>
 
@@ -164,7 +163,7 @@ matt.cooper@pnnl.gov
 
 ## Ice sheet bed topography
 
-![bg w:800 h:450](./img/gris_sub.png)
+![bg w:800 h:450](../img/gris_sub.png)
 
 <p style="position: absolute; bottom: 0; left: 0; width: 100%; text-align: center;">topography: BedMachineV3, Morlighem et al 2017</p>
 
@@ -173,7 +172,7 @@ matt.cooper@pnnl.gov
 <!-- _backgroundColor: white -->
 <!-- _color: black -->
 
-![bg w:800 h:auto](./img/gris_merged.png)
+![bg w:800 h:auto](../img/gris_merged.png)
 
 <p style="position: absolute; bottom: 0; left: 0; width: 100%; text-align: center;">topography: BedMachineV3, Morlighem et al 2017</p>
 
@@ -182,7 +181,7 @@ matt.cooper@pnnl.gov
 <!-- _backgroundColor: white -->
 <!-- _color: black -->
 
-![bg](./img/gris_sub_close.png)
+![bg](../img/gris_sub_close.png)
 
 <p style="position: absolute; bottom: 0; left: 0; width: 100%; text-align: center;">topography: BedMachineV3, Morlighem et al 2017</p>
 
@@ -191,12 +190,11 @@ matt.cooper@pnnl.gov
 <!-- _backgroundColor: white -->
 <!-- _color: black -->
 
-![bg w:800 h:auto](./img/jakobsavn_retreat.png)
+![bg w:800 h:auto](../img/jakobsavn_retreat.png)
 
 ---
 
-
-![bg h:auto](./img/jakobsavn_retreat.png)
+![bg h:auto](../img/jakobsavn_retreat.png)
 
 <!-- how might one measure this velocity? -->
 
@@ -206,7 +204,7 @@ matt.cooper@pnnl.gov
 
 ---
 
-![bg](./img/melange.jpg)
+![bg](../img/melange.jpg)
 
 ---
 
