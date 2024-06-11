@@ -35,7 +35,7 @@ style: |
     }
 ---
 
-<!-- slides_GCEE6320_28Mar23_Matt_Cooper -->
+<!-- slides_GCEE6320_30Mar23_Matt_Cooper -->
 
 <!-- _class: lead invert --> <!-- center justify this slide -->
 <!-- _footer: "" --> <!-- add a footer to this slide -->
@@ -44,7 +44,7 @@ style: |
 
 Matt Cooper
 GCEE 6320 Global Climate: Physical Models
-30 March 2023
+15 April 2024
 matt.cooper@pnnl.gov
 
 ![center w:700](./img/rio_behar_wide.png)
